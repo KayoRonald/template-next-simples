@@ -1,5 +1,6 @@
 import React from 'react'
-const APP_NAME = 'boilerplate';
+
+const APP_NAME = 'boilerplate'
 
 const Meta = () => {
   return (
@@ -15,7 +16,7 @@ const Meta = () => {
       <link rel="shortcut icon" href="/favicon.ico" />
       <link rel="manifest" href="/manifest.json" />
     </>
-  );
-};
+  )
+}
 
-export default Meta;
+export default Meta
