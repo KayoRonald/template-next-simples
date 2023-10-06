@@ -5,7 +5,7 @@
 - 🚀 **Next.js 13** - **React 18**
 - ⛓️ **TypeScript**
 - **Chakra-UI** v2
-  
+
 ## Pre-requisites
 
 1. [Node.js](https://nodejs.org/en/) or nvm installed.
@@ -28,4 +28,5 @@ cd directory/<YOUR_APP_NAME>
 ```bash
 yarn dev
 ```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
